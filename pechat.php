@@ -11,6 +11,20 @@
 
 
 ob_start();
+define('API_KEY','
+ <?php
+//    ___________________________________///
+//      ÷÷÷÷÷÷÷ FAST CODER ÷÷÷÷÷÷÷÷  ///
+//      ÷÷÷÷÷÷÷÷ PHP TEAM ÷÷÷÷÷÷÷÷  ///
+//      ÷÷÷÷÷÷÷ @Fast_Coder ÷÷÷÷÷÷÷  ///
+//     ÷÷÷ @Rustam_Hikmatullayev ÷÷÷ ///
+//    __________________________________///
+
+
+
+
+
+ob_start();
 define('API_KEY','1431188534:AAEnDZOjVoyGAqgJE7Pmn6pyhg-lc0T2SPo');
 $admin = "809931622";
 function up($ch){ 
